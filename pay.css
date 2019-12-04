@@ -1,0 +1,215 @@
+
+
+body{
+    background:#faf9f7;
+}
+/* top */
+.main_nav_top{
+    background : #faf9f7;
+    padding-left : 5%;
+    margin-left: ;
+}
+.item{
+    margin-left:1%;
+    font-weight: 100;
+    color: black;
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+}
+input.item{
+    width: 40%;
+    padding: 1%;
+    background: #faf9f7;
+    
+    border: none;
+    border-bottom: 1px solid #ded9cc;
+    
+}
+.key{
+    color: #ded9cc;
+    width: 0%;
+}
+.sideUp{
+    margin-left:10%;
+}
+
+
+/* 2nd*/
+div.box-down{
+    padding-top: 1%;
+    padding-bottom: 8%;
+    background-color: #012b72;
+}
+.same{
+    margin-left:3% ;
+    color: #909090;
+}
+img.icon1{
+    color: white;
+}
+
+/* 3rd  */
+/* main box */
+.my_box{
+    margin: 3%;
+    padding: 3%;
+    background:#faf9f7 ;
+    border-radius: 5px;   
+}
+img.last{
+    border: 1px solid whitesmoke;
+    border-radius: 1%;
+}
+/*  ////////////////////////// */
+
+
+.me{
+    
+    width: 15%;
+    padding: 1%;
+    background: #faf9f7;
+    margin-left: 1%;
+    border: none;
+    border-bottom: 1px solid #ded9cc;
+    
+}
+.right{
+    float: right;
+    margin-top: -7%;
+    margin-right: 4%;
+}
+
+
+.form{
+    margin-top: -5%;
+
+}
+.book{
+    margin-top: -2%;
+    margin-left: -0.5%;
+    margin-bottom: 2%;
+}
+.coolLast{
+
+    margin: 1%;
+    background: none;
+    margin-bottom: 45%;
+
+}
+.last{
+    float: left;
+    
+}
+/*   over layer */
+.content{
+    float: left;
+}
+li{
+    padding: 2%;
+    list-style: none;
+}
+.line{
+    margin: 1%;
+    margin-bottom: 8%;
+}
+.account{
+    margin-left: 13%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-weight: 600;
+    font-size: medium;
+}
+div.text {
+    margin : 1%;
+    margin-left: 15%;
+    margin-top: -8%;
+}
+.textcool{
+    width: 80%;
+    margin: 2%;
+    padding: 2%;
+  
+    border: none;
+    border-bottom: 1px solid #ded9cc;
+}
+span.change{
+    padding-top: 4%;
+    font-size: medium;
+    font-weight: 100;
+    padding-left: 2%;
+    float: left;
+    margin: 1%;
+}
+.sign_up1{
+    padding-left: 4%;
+
+}
+.forgot{
+    margin-left: 30%;
+    font-weight: 4 ;
+    margin-top: 4% ;
+    margin-bottom: 3%;
+}
+button{
+    padding:3% 33% ;
+    margin-left: 2%;
+    margin-top: 3%;
+    background:#00b9f5;
+    border: none;
+    border-radius: 8px;
+}
+.blue{
+    color: darkblue;
+    font-weight: bolder;
+}
+.bt2{
+    padding-left: 40%;
+    padding-right: -20%;
+    margin-left: 3%;
+}
+.signoff{
+    padding: 2%;
+    margin: 1%;
+    margin-top: 4%;
+}
+
+.fun{
+    display: none;
+}
+.div{
+    position: absolute;
+    top: 25%;
+    left: 23%;
+}
+.active{
+    border-bottom:2px solid blue ;
+}
+
+#overlay {
+    position: fixed;
+    display: none;
+    width: 60%;
+    height: 70%;
+    top: 10%;
+    left: 20%;
+    right: 100%;
+    background-color: rgb(255, 255, 255);
+    bottom: 0%;
+    z-index: 2;
+    cursor: pointer;
+  }
+  .cancal{
+      position:absolute ;
+      padding: 1%;
+      margin-left: 28%;
+      background: none;      
+  }
+ #abhi{
+    float: left;
+    margin-left: 46%;
+    margin-right: -20%;
+    margin-top:-42% ;
+    padding-right:20% ;
+ }
+ 
